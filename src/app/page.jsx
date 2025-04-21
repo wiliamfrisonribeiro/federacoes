@@ -1,5 +1,5 @@
 'use client';
-import { Container, Row, Col, Card, Button } from 'react-bootstrap';
+import { Container, Row, Col, Card } from 'react-bootstrap';
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
 import { buscarCidades } from './actions';
